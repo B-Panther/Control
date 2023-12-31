@@ -1,1 +1,12 @@
+code1 = "ur_PK"
+loc1 = "PK"
+code2 = "en_US"
+loc2 = "US"
 
+code3 = "fr_FR"
+loc3 = "FR"
+code3 = "es_CO"
+loc3 = "CO"
+
+code4 = "in_IN"
+loc4 = "IN"
